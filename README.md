@@ -157,15 +157,5 @@ git tag -a $VERSION -m "Version $VERSION"
 git push --tags
 ```
 
-## Authors & Contributors
-
-* [**dbrennand**](https://github.com/dbrennand) - *Author*
-
-* [**smk762**](https://github.com/smk762) - *Contributor*
-
-## Changelog
-
-See the [CHANGELOG](CHANGELOG.md) for details.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) for details.
