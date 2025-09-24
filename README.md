@@ -158,4 +158,4 @@ git push --tags
 ```
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SathvikManuka/Email_Analysis_VirusTotal_Python/blob/main/LICENSE) for details.
